@@ -6,3 +6,4 @@ encoder = DataMatrixEncoder('This is a DataMatrix.')
 encoder.save('./datamatrix_test.png')
 print(encoder.get_ascii())
 #This project is sourced from Keith Williams tutorial
+#This project executed successfully
